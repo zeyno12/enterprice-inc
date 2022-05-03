@@ -1,0 +1,148 @@
+.header{
+    width: 100%;
+    background-color: rgb(9, 9, 65);
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5%;
+}
+.big-text{
+    font-size: 40px;
+    color: white;
+    width: 40%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navigation{
+    width: 50%;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+}
+a{
+    color: rgb(26, 167, 167);
+}
+li{
+    list-style-type: none; 
+}
+a:link{
+text-decoration: none;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bayram{
+    display: flex;
+    justify-content: space-around;
+    height: 300px;
+}
+.fog img {
+width: 400px;
+height: 200px;
+}
+.text{
+    width: 30%;
+}
+.text span b{
+    font-size: 50px;
+    color: white;
+}
+.text span{
+    font-size: 30px;
+    color: white;
+}
+.text p{
+    color:rgb(26, 167, 167) ;
+}
+.wait{
+    text-align: center;
+}
+.container-1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 400px;
+}
+.section-1{
+width: 20%;
+}
+.section-2{
+ width: 20%;   
+}
+.section-3{
+width: 20%;    
+}
+.emoj-text1{
+font-size: 30px;
+}
+.emoj-text2{
+    font-size: 30px;   
+}
+.emoj-text3{
+    font-size: 30px; 
+}
+.lorem-1 , .lorem-2 , .lorem-3{
+color: gray;
+}
+.button-1 button, .button-2 button, .button-3 button{
+    border-radius: 10px;
+    padding: 5px;
+}
+.container-2{
+    display: flex;
+    justify-content: space-around;
+    height: 500px;
+    align-items: center;
+}
+.image-r1 img, .image-r2 img,.image-r3 img{
+    width: 200px;
+    height: 200px;
+}
+.recent-1{
+    width: 20%;
+}
+.recent-2{
+    width: 20%;
+}
+.recent-3{
+    width: 20%;
+}
+.end{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 150px;
+}
+.emoj{
+    font-size: 50px;
+}
+.end-text span{
+    font-size: large;
+}
+.end-button button{
+padding: 15px;
+}
+footer{
+    background-color: rgb(9, 9, 65);
+    height: 100px;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav-footer{
+    width: 40%;
+}
+.symbol-text p{
+    color:rgb(26, 167, 167);
+    font-size: small;
+}
+a:link:hover{
+    background-color: rgb(26, 167, 167);
+}
+ul :hover{
+    color: rgb(255, 255, 255);
+}
